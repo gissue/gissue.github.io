@@ -1,7 +1,7 @@
 <img src="https://gissue.github.io/img/logo.png" alt="image" width=100px>
 
 ## For downloading GitHub issues as markdown within a ZIP file.
-## [https://git.io/gissue](https://git.io/gissue)
+## <https://gissue.github.io>
 
 Developed with [GitHub API](https://developer.github.com/v3/issues/), [JSZip](https://stuk.github.io/jszip/).
 
